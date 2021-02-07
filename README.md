@@ -4,7 +4,7 @@ This is the fifth homework for the University of Minnesota Data Analytics and Vi
 
 This project analyzes data from an animal study where 249 mice have a tumor treated through a variety of drug regiments and over the course of 45 days data was collected on the progress. The project is to generate the tables and figures needed for the tehnical report documenting the study.
 
-Findings from the data analysis: [after completing the project summarize three findings based on the data]
+Findings from the data analysis: Overall Capomulin and Ramicane had the lowest average and median tumor growths for all of the drug regimines. Capomulin reduce tumor volume for the random mouse selected to be graphed, but overall on average the larger the mouse the larger the tumors it had with the Capomulin treatment. 
 
 Duplicate data was removed. A summary table of mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimine was completed. Then a bar plot was generated showing the total number of measurements taken for each treatment resigmen throughout the study.
 A pie plot is generated to show the distribtuion of female or male mice in the study. 
